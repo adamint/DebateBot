@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DebateBot.iml" filepath="$PROJECT_DIR$/.idea/modules/DebateBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DebateBot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DebateBot_main.iml" group="DebateBot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DebateBot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DebateBot_test.iml" group="DebateBot" />
+    </modules>
+  </component>
+</project>

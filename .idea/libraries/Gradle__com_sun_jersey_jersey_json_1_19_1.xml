@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sun.jersey:jersey-json:1.19.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-json/1.19.1/61d042750175babb45b8530eaca4ea3aaf7a83a0/jersey-json-1.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-json/1.19.1/d9332628a3390b286498f66ca83c70ca66234bfb/jersey-json-1.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
